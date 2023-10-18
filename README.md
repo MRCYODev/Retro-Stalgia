@@ -30,11 +30,11 @@ A project designed to bring back the classic look and feel of Windows OS to mode
 
 - Everything on Windows 7 is missing something. [Open Ticket](https://github.com/MRCYODev/Retro-Stalgia/issues)
 
-#### Games
+#### Windows 7 Games
 
 - Rediscover classic Windows 7 games. [Explore Games](https://win7games.com/#games)
 
-#### Software
+#### Windows 7 Software
 
 - Revisit classic Windows 7 software:
   - [Windows 7 Classic Calculator](https://win7games.com/#calc)
@@ -44,11 +44,11 @@ A project designed to bring back the classic look and feel of Windows OS to mode
   - [Windows 7 Classic Paint](https://win7games.com/#mspaint)
   - [Windows 7 Aurora Screen Saver](https://win7games.com/#aurora)
 
-#### Icons
+#### Windows 7 Icons
 
 - Download Windows 7 Icons in a zip file. [Download Icons](https://github.com/MRCYODev/Retro-Stalgia/raw/main/windows-7/icons/Windows7_icons.zip)
 
-#### Start Button
+#### Windows 7 Start Button
 
 - To complete the classic look, you'll need:
   - [Classic Shell](http://www.classicshell.net/) or [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu)
@@ -64,6 +64,37 @@ A project designed to bring back the classic look and feel of Windows OS to mode
   - [Sample Pictures](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/sample-pictures)
   - [User Account Pictures](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/user-account-pictures)
 
-# Windows 7 CSS
+#### Windows 7 CSS
 
 Enhance your Windows 7 experience with this CSS. [7.css](https://github.com/khang-nd/7.css)
+
+
+## Windows XP (SOON)
+
+- Everything on Windows XP is missing something. [Open Ticket](https://github.com/MRCYODev/Retro-Stalgia/issues)
+
+#### Windows XP Games
+
+- Nothing found yet 18/10/2023
+
+#### Windows XP Software
+
+- Nothing found yet 18/10/2023
+
+#### Windows XP Icons
+
+- Nothing found yet 18/10/2023
+
+#### Windows XP Start Button
+
+- Nothing found yet 18/10/2023
+
+#### Windows 7 Wallpapers
+
+- Nothing found yet 18/10/2023
+
+## Windows 3.1 (SOON)
+
+## Windows 98 (SOON)
+
+## Windows Vista (SOON)
