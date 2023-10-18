@@ -50,7 +50,10 @@
 ## Start Button
 - You will need [Classic Shell](http://www.classicshell.net/) or [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) and Start icon [Small](https://github.com/MRCYODev/Retro-Stalgia/blob/main/windows-7/icons/Windows%207%20Start%20Button%20Small%20Icons.png) | [Big](https://github.com/MRCYODev/Retro-Stalgia/blob/main/windows-7/icons/Windows%207.png)
 ## Windows 7 Wallpapers
-- 
+- [Wallpapers](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/wallpapers)
+- [Regional](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/regional)
+- [Sample Pictures](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/sample-pictures)
+- [User Account Pictures](https://github.com/MRCYODev/Retro-Stalgia/tree/main/windows-7/user-account-pictures)
 # Windows 7 css
 - [7.css](https://github.com/khang-nd/7.css)
 
