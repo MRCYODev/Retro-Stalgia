@@ -1,14 +1,6 @@
-# RetroStalgia
-
-Rediscover the magic of the past with RetroStalgia - a nostalgia-inducing journey to retro gaming and memories. 🎮🕹️
-
 <div align="center">
   <h1>RetroStalgia</h1>
 </div>
-
-<p align="center">
-  <img src="retro_logo.png" alt="RetroStalgia Logo" width="200">
-</p>
 
 <p align="center">
   Rediscover the classics of yesteryears! RetroStalgia is your gateway to the golden age of gaming. Explore vintage consoles, games, and release history. 🎮🕹️
